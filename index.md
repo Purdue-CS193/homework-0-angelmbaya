@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Angel's First CS193 Homework
+
+-I like how chill the teachers are in this class
+-I like how easy the homework is.
+-I like how fun the work in the class is.
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
